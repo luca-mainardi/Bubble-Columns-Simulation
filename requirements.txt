@@ -1,0 +1,27 @@
+pyvista
+torch
+numpy
+pandas
+matplotlib
+scipy
+imageio
+scikit-learn
+
+trame-vtk
+trame-vuetify 
+ipywidgets
+pyvistaqt
+PyQt5
+notebook
+
+torch-geometric
+
+tqdm
+networkx
+# shutil
+# unittest
+
+torchinfo
+
+trame
+# ipykernel
